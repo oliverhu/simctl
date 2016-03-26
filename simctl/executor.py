@@ -1,5 +1,5 @@
 import subprocess
-from ios_runner.timeout import timeout
+from timeout import timeout
 import errno
 import os
 
