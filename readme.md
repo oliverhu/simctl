@@ -1,6 +1,6 @@
 # simctl
 
-Python interface to xcrun simctl. Manage your iOS Simulators directly from a ruby script. This can be helpful for testing on different Simulators. A port from plu's Ruby version of simctl
+Python interface to xcrun simctl. Manage your iOS Simulators directly from a python script. This can be helpful for testing on different Simulators. This is a port from plu's Ruby version of [simctl](https://github.com/plu).
 
 ## Usage
 
