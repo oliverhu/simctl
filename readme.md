@@ -1,6 +1,6 @@
 # simctl
 
-[![Build Status](https://travis-ci.org/oliverhu/simctl.svg?branch=master)](https://travis-ci.org/oliberhu/simctl)
+[![Build Status](https://travis-ci.org/oliverhu/simctl.svg?branch=master)](https://travis-ci.org/oliverhu/simctl)
 
 Python interface to xcrun simctl. Manage your iOS Simulators directly from a python script. This can be helpful for testing on different Simulators. This is a port from plu's Ruby version of [simctl](https://github.com/plu).
 
